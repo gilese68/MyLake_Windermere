@@ -1,23 +1,9 @@
-MyLake
+MyLake-2D Windermere floating solar example
 =====
 
-This is the Mylake GIT hub. The goal is to maintain a up-to-date version of MyLake combining the features that are developed by different groups. 
+The Chl-a data and nutrients for Windermere south basin are published with the EIDC:
 
-The current version of MyLake is : MYLAKE_2007
+Maberly, S.C.; Brierley, B.; Carter, H.T.; Clarke, M.A.; De Ville, M.M.; Fletcher, J.M.; James, J.B.; Keenan, P.; Kelly, J.L.; Mackay, E.B.; Parker, J.E.; Patel, M.; Pereira, M.G.; Rhodes, G.; Tanna, B.; Thackeray, S.J.; Vincent, C.J.; Feuchtmayr, H. (2017). Surface temperature, surface oxygen, water clarity, water chemistry and phytoplankton chlorophyll a data from Windermere South Basin, 1945 to 2013. NERC Environmental Information Data Centre. https://doi.org/10.5285/e3c4d368-215d-49b2-8e12-74c99c4c3a9d
 
----MyLAKE---
-
-The following branches are under development: 
-
-"Coupling_with_MATSEDLAB-IsM" branch is used for coupling with sediment module. For more information about this module check separate repository:
-https://github.com/biogeochemistry/MATSEDLAB-IsM
-
-"FOKEMA" contains the DOC cycling module used in Holmberg et al BER (2014)
-
-"MyLake-O" contains the original DO module by Petri Kiuru
-
-"water-level" contains the preliminary water level fluctuation module by Ming Su
-
-The other branches are experimental. 
-
-
+The nutrient concentrations for North Basin are published in the EIDC:
+Maberly, S.C.; Brierley, B.; Carter, H.T.; Clarke, M.A.; De Ville, M.M.; Fletcher, J.M.; James, J.B.; Keenan, P.; Kelly, J.L.; Mackay, E.B.; Parker, J.E.; Patel, M.; Pereira, M.G.; Rhodes, G.; Tanna, B.; Thackeray, S.J.; Vincent, C.J.; Feuchtmayr, H. (2017). Surface temperature, surface oxygen, water clarity, water chemistry and phytoplankton chlorophyll a data from Windermere North Basin, 1945 to 2013. NERC Environmental Information Data Centre. https://doi.org/10.5285/f385b60a-2a6b-432e-aadd-a9690415a0ca
