@@ -1,0 +1,4 @@
+sediment
+=========
+
+Sediments is a biogeochemical model, which calculates the concentration of different species at each depth for a specific time period, based on the reaction framework, transport processes, and boundary conditions specified by the users. It does so by forming a system of partial differential equations based on the early diagenesis equation
